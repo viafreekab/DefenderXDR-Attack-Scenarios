@@ -1,7 +1,7 @@
 # Microsoft Defender XDR Attack Scenarios
 Advanced Microsoft Defender XDR Detection Engineering project with KQL hunting queries, attack scenarios, MITRE ATT&amp;CK mapping and SOC investigation playbooks.
----
 
+---
 ## Overview
 
 This repository provides advanced attack scenarios for Microsoft Defender XDR.
